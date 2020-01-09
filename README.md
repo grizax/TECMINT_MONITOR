@@ -7,7 +7,7 @@ usage in Linux.
 To execute the script please read its content, using in preference nano editor, and then 
 
 ```
-$ bash tecmin_monitor.sh 
+$ bash tecmint_monitor.sh 
 ```
 or you can install it, by downloading the script to the computer you want to monitor. Then give the appropiate permissions to the script using ```chmod``` command  and execute it like this : 
 ```
